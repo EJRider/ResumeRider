@@ -1,0 +1,76 @@
+body {
+  background-color: linen;
+ 
+}
+
+.Header {
+  background-color:lightslategrey;
+  
+  color: mintcream; 
+  padding: 20px 10%;
+  border-radius: 25px;
+  margin: 0% 10%;
+}
+
+.Middle {
+  background-color: linen;
+  margin: 0% 10%;
+  padding: 20px 10%;
+  border-radius: 25px;
+}
+
+.Footer {
+  background-color: dimgrey;
+  color: aliceblue;
+  padding: 20px 10%;
+  border-radius: 25px;
+  margin: 0% 10%;
+  clear: left;
+}
+
+h1 {
+  font-size: 38px;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 30px;
+
+}
+
+h3 {
+  font-size: 26px;
+  
+}
+
+h4 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.Bottom {
+  margin: 5px;
+}
+
+p {
+  font-size: 18px;
+}
+
+li {
+  font-size: 18px;
+}
+.MiddleText{
+  width: 50%;
+  float: left;
+}
+
+.MiddleImage{
+  float: left;
+  width: 50%;
+}
+
+img {
+  width: 80%;
+  height: 80%; 
+  
+}
