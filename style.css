@@ -7,24 +7,24 @@ body {
   background-color:lightslategrey;
   
   color: mintcream; 
-  padding: 20px 10%;
+  padding: 20px 2%;
   border-radius: 25px;
-  margin: 0% 10%;
+  margin: 0% 20%;
 }
 
 .Middle {
   background-color: linen;
-  margin: 0% 10%;
-  padding: 20px 10%;
+  margin: 0% 20%;
+  padding: 20px 2%;
   border-radius: 25px;
 }
 
 .Footer {
   background-color: dimgrey;
   color: aliceblue;
-  padding: 20px 10%;
+  padding: 20px 2%;
   border-radius: 25px;
-  margin: 0% 10%;
+  margin: 0% 20%;
   clear: left;
 }
 
@@ -60,7 +60,8 @@ li {
   font-size: 18px;
 }
 .MiddleText{
-  width: 50%;
+  width: 45%;
+  padding-right:5%;
   float: left;
 }
 
